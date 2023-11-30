@@ -68,14 +68,3 @@ Your goal of this exercise is to fix the script so that each variable has the co
 3. Fix the script so it outputs the correct bill total based on the data being entered.
 
 <br>
-
-## Final Step: Let's submit your code!
-
-Nice work! To complete this assessment:
-
-- Save your file through File -> Save
-- Select "Submit Assignment" in your Lab toolbar.
-
-Your code will be autograded and return feedback shortly on the "Grades" tab.  
-You can also see your score in your Programming Assignment "My Submission" tab.
-<br> <br>
